@@ -1,0 +1,1 @@
+Following the git basics portion of the odin project curriculum.
